@@ -179,6 +179,7 @@ article{
 }
 #boton1, #boton2{
     display: flex;
+    max-height: 42px;
     justify-content: end;
     margin: 0 50px 20px; 
 }
